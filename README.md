@@ -8,6 +8,6 @@ In an attempt to improve the Hellenic Train application, we redesign it using hu
 
 Lastly, we evaluate our new design and compare it to the original Hellenic Train application. Both quantitative and qualitative metrics show that our design is preferable in terms of usability and User Experience.
 
-The myPublicTransport Team,
-George Tsialios
+The myPublicTransport Team, <br/>
+George Tsialios <br/>
 Christos Katsandris
