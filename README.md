@@ -10,7 +10,7 @@ This is a project for the Interactive Technologies Course of the 9th semester of
 
 ## Running the Prototypes
 
-Our high-fidelity prototypes are publicly available at https://www.figma.com/proto/hBa6sBoXb4QeU5pyDXwKri/myPublicTransport-Design?page-id=0%3A1&type=design&node-id=11-17&viewport=-4316%2C5145%2C0.34&t=bWJPKTvkHmTEeLPD-1&scaling=contain&starting-point-node-id=11%3A17.
+Our high-fidelity prototypes are publicly available at: https://www.figma.com/proto/hBa6sBoXb4QeU5pyDXwKri/myPublicTransport-Design?page-id=0%3A1&type=design&node-id=11-17&viewport=-4316%2C5145%2C0.34&t=bWJPKTvkHmTEeLPD-1&scaling=contain&starting-point-node-id=11%3A17.
 
 <br/>
 
@@ -18,9 +18,9 @@ Our high-fidelity prototypes are publicly available at https://www.figma.com/pro
 
 Additional resources and documentation can be found in:
 
-- `Report_Greek.pdf`: A detailed report in Greek presenting the application's design, user analysis, evaluation methods, and usage scenarios.
+- [Project Report (PDF, in Greek)](https://github.com/GeorgeTsialios/myPublicTransport/blob/master/Report_Greek.pdf): a detailed report in Greek presenting the application's design, user analysis, evaluation methods, and usage scenarios.
 
-- `Presentation_English.pptx`: A presentation in English summarizing the application's user-centered design process, evaluation methods and results.
+- [Project Presentation (PPTX, in English)](https://github.com/GeorgeTsialios/myPublicTransport/blob/master/Presentation_English.pptx): a presentation in English summarizing the application's user-centered design process, evaluation methods and results.
 
 
 <br/>
